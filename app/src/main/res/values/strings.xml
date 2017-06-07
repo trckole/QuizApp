@@ -1,0 +1,32 @@
+ <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+        <string name="app_name">cizi</string>
+         <string name="title">Find your Junior Industry Manager right here!</string>
+        <string name="name">Put your name here</string>
+        <string name="question1">1.	The perfect candidate..."</string>
+        <string name="question1a">falls asleep while working</string>
+        <string name="question1b">is curious, self-motivated and a result oriented person who brings passion to the workplace</string>
+        <string name="question1c">eats the sandwich of his/her colleague</string>
+        <string name="question2">2.	Is an entrepreneurial attitude necessary for the position?</string>
+        <string name="question2a">Yes</string>
+        <string name="question2b">No</string>
+        <string name="question3">3. What should he/she definitely bring? </string>
+        <string name="question3a">Creativity - innovative ideas on how to get attention :)</string>
+        <string name="question3b">Responsibility</string>
+        <string name="question3c">Positive attitude</string>
+        <string name="question3d">Enthusiasm about B2B marketing</string>
+        <string name="question3e">An angry Sphynx cat to the office</string>
+        <string name="question4">4.Does the job require excellent English skills? Yes/No?</string>
+        <string name="question5">5.How many candidates are you looking for?</string>
+        <string name="question5a">Type here</string>
+        <string name="question6">6.Is there a candidate who has it all?</string>
+        <string name="question6a">Dumbledore</string>
+        <string name="question6b">Mr.Bean</string>
+        <string name="question6d">Lenka Trckova</string>
+        <string name="result">Results:</string>
+        <string name="submit">Submit</string>
+        <string name="try_again">Try again</string>
+        <string name="results_summary_name">Results:\n<xliff:g id="nameOfUser" example="Alan">%s</xliff:g>, Congratulation! You have found a perfect fit for the Industry Manager position and your score is <xliff:g id="finalResult" example="5">%d</xliff:g> out of 6 correct answers\n</string>
+        <string name="correct_answers">Correct answers:\n1B\n2A\n3A+B+C+D\n4A\n51\n6C</string>
+        <string name="blank"></string>
+        <string name="zero">0</string>
+</resources>
